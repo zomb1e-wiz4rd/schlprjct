@@ -1,0 +1,52 @@
+﻿body{
+  background: #e5e5e1;
+  padding-top: 40px;
+}
+h1{
+  margin: auto;
+  max-width: 417px;
+  margin-bottom: 35px;
+  font-size: 40px;
+}
+h2{
+  padding: 0px 0px 0px 140px;
+  font-size: 30px;
+  background: #e5e0fa;
+  border-radius: 15px;
+  
+}
+.all{
+  margin: auto;
+  max-width: 1300px;
+}
+img{
+  margin: auto;
+  padding: 0px 0px 0px 140px;
+  width: 1000px;
+}
+p{
+  line-height: 22px;
+  font-size: 16px;
+  font-weight: normal;
+  padding: 10px;
+}
+.podpis{
+  text-align: center;
+  color: #86898f;
+  margin: 0px 0px 20px 0px;
+}
+.date{
+  font-size: 24px;
+  font-weight: bold;
+  background: #b1b1b1;
+  padding: 10px;
+  border-radius: 15px;
+}
+.bg{
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 30px;
+}
+.grey{
+  background: #d1d1d1;
+}

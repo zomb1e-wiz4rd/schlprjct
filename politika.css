@@ -1,0 +1,36 @@
+﻿body{
+  background: #e5e5e1;
+  padding-top: 40px;
+}
+h1{
+  margin: auto;
+  max-width: 600px;
+  margin-bottom: 25px;
+  font-size: 40px;
+}
+.all{
+  margin: auto;
+  max-width: 1300px;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 30px;
+  background: #d1d1d1;
+  font-size: 16px;
+line-height: 20px;
+}
+.pic{
+  display: flex;
+}
+img{
+  max-width: 450px;
+  max-height: 550px;
+}
+.paragraph{
+  padding-right: 20px;
+  line-height:20px;
+}
+.podpis{
+    text-align: center;
+  color: #86898f;
+  margin: 0px 0px 20px 0px;
+}
